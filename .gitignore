@@ -1,0 +1,6 @@
+#This is a comment
+
+*.js
+*.mp4
+!app.js
+*.log
