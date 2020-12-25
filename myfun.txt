@@ -6,3 +6,5 @@ oneFunction :
 New function:
 	1st new function
 	2nd New function
+
+	Added a chart function here
