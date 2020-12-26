@@ -1,5 +1,5 @@
 oneFunction :
-	I have added very important function here
+	I have added one function here
 	I have added 2nd function
 	I have added 3rd function
 
@@ -8,3 +8,4 @@ New function:
 	2nd New function
 
 	Added a chart function here
+	Adding to new function 	to	 login user via X method
